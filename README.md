@@ -4,5 +4,6 @@ Merhaba arkadaşlar, bu çalışmamda tensorflow(tf) kütüphanesinin derinlemes
 bu çalışmam size tutorial ve guilde kısmının Türkçe çevirisi gibi gelebilir ama bu çalışmayı hazırlama sebebim tutorial ve guilde kısmı üzerinde çalışırken kendi notlarımı alıp sizler ile paylaşmak olacaktır. Bu kısımda kendi notlarımı sizler ile paylaşacağım ve tensorflow 
 kütüphanesine sizin ile birlikte derinlemesine gireceğiz ve birlikte öğreneceğiz.
 
-Kaggle: https://www.kaggle.com/ihsncnkz
-LinkedIn: https://www.linkedin.com/in/ihsancenkiz/
+**My Social Media Links(Sosyal Medya Bağlantılarım):**<br>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihsancenkız/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ihsncnkz)
