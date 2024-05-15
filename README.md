@@ -5,5 +5,5 @@ bu çalışmam size tutorial ve guilde kısmının Türkçe çevirisi gibi geleb
 kütüphanesine sizin ile birlikte derinlemesine gireceğiz ve birlikte öğreneceğiz.
 
 **My Social Media Links(Sosyal Medya Bağlantılarım):**<br>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihsancenkız/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihsancenkiz/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ihsncnkz)
